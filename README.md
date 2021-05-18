@@ -58,6 +58,11 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## API Dcoumentation
+```
+https://documenter.getpostman.com/view/13525105/TzRYcQ6n
+```
+
 ## License
 
 Nest is [MIT licensed](LICENSE).
